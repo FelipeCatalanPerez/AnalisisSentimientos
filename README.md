@@ -1,4 +1,4 @@
-# Analisis de Sentimientos
+# Análisis de Sentimientos
 
 - Realización de configuraciones en colab de Google drive.
 - Aplicación de API twint para descargar datos de twitter.
