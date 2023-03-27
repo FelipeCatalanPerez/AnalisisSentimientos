@@ -5,3 +5,5 @@ El análisis de sentimiento es el proceso automatizado de comprensión de una op
 - Realización de configuraciones en colab de Google drive.
 - Aplicación de API twint para descargar datos de twitter.
 - Lematización.
+
+[Link del Colab](https://colab.research.google.com/github/FelipeCatalanPerez/AnalisisSentimientos/blob/main/Analisis_sentimientos_Mineria.ipynb)
